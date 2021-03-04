@@ -1,12 +1,13 @@
 # Crypto Tracker
 
-Crypto Tracker website to follow cryptocurrency prices in real time.
+[CryptoTracker](https://cc-cryptocracker.netlify.app/) website to follow cryptocurrency prices in real time.
 
 ### Features
 
 -   React Application
 -   Coin Gecko API
 -   Javascript CSS.
+-   Deployment: Netlify
 
 # Dependencies
 
